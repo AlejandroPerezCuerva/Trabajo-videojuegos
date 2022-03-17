@@ -1,4 +1,7 @@
 # Trabajo-videojuegos
+**Copia y uso de código**
+Copiar y usar código o ideas de otra gente está bien y es hasta recomendable (con cabeza claro) pero no se puede robar ninguna de estas cosas nuca, cuando se use el código o ideas de alguien se debe referenciar tanto el qué como el quién (juegos de otros años, videos de gente, blogs, lo que sea y para cualquier cosa que sin esa inspiración no hubiera salido)
+
 **Nombre del equipo:**  
 
 **Nombre del videojuego:**  
